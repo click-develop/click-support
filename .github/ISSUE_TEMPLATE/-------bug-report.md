@@ -10,7 +10,7 @@ assignees: ''
 ## 起こっている問題 / The Problem
 - xxxx
 
-## スクリーンショット(gyazo) / Screenshot
+## スクリーンショット / Screenshot
 
 ## 期待する挙動 / Expected Behavior
 - xxxx
